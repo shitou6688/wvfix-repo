@@ -1,6 +1,6 @@
 Package: com.local.wechatverfix
 Name: 微版助手
-Version: 3.4.0
+Version: 3.5.0
 Architecture: iphoneos-arm64
 Description: 微信「当前版本过低无法登录」修复工具。安装后会常驻一个 root 守护进程，App 通过本地 socket 请求它把微信 Info.plist 里的版本字段改成新版本号。卡密激活、一机一码、可解绑。 iOS 15~16 越狱（Dopamine / XinaA15 等 rootless），装到 /var/jb。
 Maintainer: shitou6688
@@ -8,14 +8,14 @@ Author: shitou6688
 Section: Applications
 Depends: firmware (>= 11.0)
 Installed-Size: 500
-Filename: debs/wechatverfix_3.4.0_rootless.deb
-Size: 205502
-MD5sum: 6c56d64cad37f940e5bdd9f50f2f9761
-SHA256: 823e53a7eeda0f3a4ef602714bcfc59d761647812c117baabd54999d5fdabfba
+Filename: debs/wechatverfix_3.5.0_rootless.deb
+Size: 208938
+MD5sum: 5dcdf0d06f83361139fbb25bb3df73c6
+SHA256: 96acbbfa9052730e2b796ff53ab84e31447ea4f5af57ddfc34dab330310e788b
 
 Package: com.local.wechatverfix
 Name: 微版助手
-Version: 3.4.0
+Version: 3.5.0
 Architecture: iphoneos-arm
 Description: 微信「当前版本过低无法登录」修复工具。安装后会常驻一个 root 守护进程，App 通过本地 socket 请求它把微信 Info.plist 里的版本字段改成新版本号。卡密激活、一机一码、可解绑。 iOS 11~14 越狱（checkra1n / unc0ver / Taurine，rootful），装到 /。
 Maintainer: shitou6688
@@ -23,7 +23,7 @@ Author: shitou6688
 Section: Applications
 Depends: firmware (>= 11.0)
 Installed-Size: 500
-Filename: debs/wechatverfix_3.4.0_rootful.deb
-Size: 205482
-MD5sum: 6261ad60620b01cbb60d2d9a201b9b58
-SHA256: 8337f13fd0003bc531790dfe109097d11f0b92e31e0e4bff013217c91e888572
+Filename: debs/wechatverfix_3.5.0_rootful.deb
+Size: 208918
+MD5sum: f7cbc21b67d0cae58087ee8d686656a5
+SHA256: 0062e454baaa365cc9c4e7f48d800f76466f767258145ccf3db96e0c800c7731
