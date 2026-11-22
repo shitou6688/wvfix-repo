@@ -1,0 +1,14 @@
+Package: com.local.wechatverfix
+Name: 微版助手
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: 微信「当前版本过低无法登录」修复工具。以 root 运行，可把微信 Info.plist 里的版本字段改成新版本号，支持 iOS 11 及以上越狱设备。
+Maintainer: shitou6688
+Author: shitou6688
+Section: Applications
+Depends: firmware (>= 11.0)
+Installed-Size: 400
+Filename: debs/wechatverfix_2.0.0_jailbreak.deb
+Size: 74972
+MD5sum: 5d943b2bded0072b913cf83f3e32ab28
+SHA256: 68d3f369b831ed9d588edaadb12bf40d7bac046a98a470527d8187e99ed87a6f

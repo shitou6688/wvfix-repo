@@ -1,0 +1,8 @@
+Origin: shitou6688
+Label: 微版助手源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: 微版助手 · 微信版本伪装
