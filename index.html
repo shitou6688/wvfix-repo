@@ -1,18 +1,20 @@
 <!doctype html><meta charset="utf-8">
 <title>微版助手 · Cydia 源</title>
-<style>body{font-family:-apple-system,"PingFang SC",sans-serif;max-width:680px;margin:60px auto;padding:0 20px;line-height:1.8;color:#222}
+<style>body{font-family:-apple-system,"PingFang SC",sans-serif;max-width:700px;margin:60px auto;padding:0 20px;line-height:1.8;color:#222}
 code{background:#f4f6f5;padding:3px 8px;border-radius:6px;font-size:15px}
-li{margin:4px 0}</style>
+li{margin:6px 0}</style>
 <h2>微版助手 · Cydia 源</h2>
 <p>在 Cydia / Sileo / Zebra 里添加源：</p>
 <p><code>https://shitou6688.github.io/wvfix-repo/</code></p>
-<p>搜索「微版助手」安装。会自动按你的越狱类型选择对应的包：</p>
+<h3>按系统选择</h3>
 <ul>
-<li>rootless（Dopamine、XinaA15，iOS 15~16）→ 装到 /var/jb</li>
-<li>rootful（checkra1n、unc0ver、Taurine，iOS 11~14）→ 装到 /</li>
+<li><b>iOS 11 ~ 14</b>（Cydia，checkra1n/unc0ver）→ 装「微版助手（低版本）」</li>
+<li><b>iOS 14+</b>（Dopamine 等）→ 装「微版助手」</li>
 </ul>
 <h3>直接下载</h3>
 <ul>
-  <li><a href="debs/wechatverfix_3.11.2_rootless.deb">wechatverfix_3.11.2_rootless.deb</a></li>
-  <li><a href="debs/wechatverfix_3.11.2_rootful.deb">wechatverfix_3.11.2_rootful.deb</a></li>
+  <li>wechatverfix_3.11.2_legacy_rootful.deb — iOS 11~14 越狱（checkra1n / unc0ver / Taurion，rootful），装到 /。适合 Cydia 老设备。</li>
+  <li>wechatverfix_3.11.2_legacy_rootless.deb — iOS 15~16 越狱（Dopamine / XinaA15，rootless），装到 /var/jb。</li>
+  <li>wechatverfix_3.11.2_rootful.deb — iOS 14+ 正式版（含 SwiftUI 弹窗，rootful），装到 /。</li>
+  <li>wechatverfix_3.11.2_rootless.deb — iOS 14+ 正式版（含 SwiftUI 弹窗，rootless），装到 /var/jb。</li>
 </ul>
