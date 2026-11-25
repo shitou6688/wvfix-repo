@@ -1,59 +1,59 @@
 Package: com.local.wechatverfix
 Name: 微版助手
-Version: 3.12.0
+Version: 3.13.2
 Architecture: iphoneos-arm
-Description: 微信「当前版本过低无法登录」修复工具。iOS 14+ 越狱（checkra1n/unc0ver/Taurine，rootful），装到 /。含 SwiftUI 弹窗。
+Description: 微信版本伪装工具。iOS 14+ 越狱（checkra1n/unc0ver/Taurine），装到 /。
 Maintainer: shitou6688
 Author: shitou6688
 Section: Applications
 Depends: firmware (>= 11.0)
 Installed-Size: 800
-Filename: debs/wechatverfix_3.12.0_rootful.deb
-Size: 229870
-MD5sum: 1dd53e2aefac6715eb940f078a1664c4
-SHA256: 57ad3d642223c6fe8fec314938778b51f3760302a67201b3089d996af5ab8a6e
+Filename: debs/wechatverfix_3.13.2_rootful.deb
+Size: 173572
+MD5sum: 4df4ebb6946fbbff13bf04de67621a0f
+SHA256: f195f60eb13285e4541459d13dd369f3bb42824bf01e82464d06cb278596cf87
 
 Package: com.local.wechatverfix
 Name: 微版助手
-Version: 3.12.0
+Version: 3.13.2
 Architecture: iphoneos-arm64
-Description: 微信「当前版本过低无法登录」修复工具。iOS 15~16 越狱（Dopamine/XinaA15，rootless），装到 /var/jb。
+Description: 微信版本伪装工具。iOS 15~16 越狱（Dopamine/XinaA15），装到 /var/jb。
 Maintainer: shitou6688
 Author: shitou6688
 Section: Applications
 Depends: firmware (>= 11.0)
 Installed-Size: 800
-Filename: debs/wechatverfix_3.12.0_rootless.deb
-Size: 229892
-MD5sum: df3c4190fd419e3395793279d11660b9
-SHA256: ec058c55cde99e15c8c94da604fc3fe18f5680dd158661d06e15d81793c3bdd5
+Filename: debs/wechatverfix_3.13.2_rootless.deb
+Size: 173592
+MD5sum: 9b92181d699e6c374e13383b2e72554f
+SHA256: c5e1874e10fe80c532e5dcb65abbdc0be26eabd4f4f84a9be212eb6e1b9f71a5
 
 Package: com.local.wechatverfix.legacy
 Name: 微版助手（低版本）
-Version: 3.12.0
+Version: 3.13.2
 Architecture: iphoneos-arm
-Description: 微信「当前版本过低无法登录」修复工具。iOS 11~14 越狱（Cydia，rootful），纯 UIKit 无 Swift 依赖，装到 /。
+Description: 微信版本伪装工具。iOS 11~14 越狱（Cydia），纯 UIKit 无 Swift 依赖，装到 /。
 Maintainer: shitou6688
 Author: shitou6688
 Section: Applications
 Depends: firmware (>= 11.0)
 Installed-Size: 800
-Filename: debs/wechatverfix_3.12.0_legacy_rootful.deb
-Size: 174256
-MD5sum: 796a0900e046a41712249f740490926f
-SHA256: 41c6742a39ce043b1aac2ffde2c4bd73d6f07feaaadecce4d2c010ea9a873f6c
+Filename: debs/wechatverfix_3.13.2_legacy_rootful.deb
+Size: 175590
+MD5sum: 3798eed3d54e143347e0f138bc9e77d4
+SHA256: dd3a70d6d0381ce716ed65554349861d58d4b3712843fb0b6577f1f15c206473
 
 Package: com.local.wechatverfix.legacy
 Name: 微版助手（低版本）
-Version: 3.12.0
+Version: 3.13.2
 Architecture: iphoneos-arm64
-Description: 微信「当前版本过低无法登录」修复工具。iOS 15~16 rootless 版本，纯 UIKit 无 Swift 依赖，装到 /var/jb。
+Description: 微信版本伪装工具。iOS 15~16 rootless，纯 UIKit 无 Swift 依赖，装到 /var/jb。
 Maintainer: shitou6688
 Author: shitou6688
 Section: Applications
 Depends: firmware (>= 11.0)
 Installed-Size: 800
-Filename: debs/wechatverfix_3.12.0_legacy_rootless.deb
-Size: 174276
-MD5sum: 6be9ae372d7aab9c7cae47921bf0bba3
-SHA256: 821dfc543dacffc23ce32110698f1088c0c3982804e7ab45805c6a31a8ee8c7a
+Filename: debs/wechatverfix_3.13.2_legacy_rootless.deb
+Size: 175610
+MD5sum: 0778a78a5de7e3527c2e66a906e3e064
+SHA256: 45ce461489d5e5c7c89c7f5453cf39a7c1dbfd741ae71a4e8e46d24bced8a47e
