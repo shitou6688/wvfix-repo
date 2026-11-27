@@ -1,6 +1,6 @@
 Package: com.local.wechatverfix
 Name: 微版助手
-Version: 3.13.3
+Version: 3.14.0
 Architecture: iphoneos-arm
 Description: 微信版本伪装工具。iOS 14+ 越狱（checkra1n/unc0ver/Taurine），装到 /。
 Maintainer: shitou6688
@@ -8,14 +8,14 @@ Author: shitou6688
 Section: Applications
 Depends: firmware (>= 11.0)
 Installed-Size: 800
-Filename: debs/wechatverfix_3.13.3_rootful.deb
-Size: 174526
-MD5sum: 43180c9d2793236806b8c1ce835d23a1
-SHA256: fb246b5f2c74d18870a373129f88c7e57826d623337e3abb807d88451bb3d867
+Filename: debs/wechatverfix_3.14.0_rootful.deb
+Size: 174550
+MD5sum: 707bca0de8f0021f5fefbe5a5b118af3
+SHA256: 083cd034f09839e9400dcf302ab5b69c9992b3891396352ea7e04b7f2e7fd71b
 
 Package: com.local.wechatverfix
 Name: 微版助手
-Version: 3.13.3
+Version: 3.14.0
 Architecture: iphoneos-arm64
 Description: 微信版本伪装工具。iOS 15~16 越狱（Dopamine/XinaA15），装到 /var/jb。
 Maintainer: shitou6688
@@ -23,14 +23,14 @@ Author: shitou6688
 Section: Applications
 Depends: firmware (>= 11.0)
 Installed-Size: 800
-Filename: debs/wechatverfix_3.13.3_rootless.deb
-Size: 174546
-MD5sum: 854572a11641d2f5b6cbe0a38c866738
-SHA256: 1decab9dbea01b7be9f69d3f2d61b070f80d3cc2af29e2069b8e8a43867cc009
+Filename: debs/wechatverfix_3.14.0_rootless.deb
+Size: 174572
+MD5sum: c69465dc0f89010a08d0e0259eaecb8e
+SHA256: dcd590ded33c6cd14fedb275de6aee4947d3297a95364717f20dc9c4aa418282
 
 Package: com.local.wechatverfix.legacy
 Name: 微版助手（低版本）
-Version: 3.13.3
+Version: 3.14.0
 Architecture: iphoneos-arm
 Description: 微信版本伪装工具。iOS 11~14 越狱（Cydia），纯 UIKit 无 Swift 依赖，装到 /。
 Maintainer: shitou6688
@@ -38,14 +38,14 @@ Author: shitou6688
 Section: Applications
 Depends: firmware (>= 11.0)
 Installed-Size: 800
-Filename: debs/wechatverfix_3.13.3_legacy_rootful.deb
-Size: 176234
-MD5sum: 550d94b484d805cef21cc471a19dfd77
-SHA256: 3b051c033ae10dfbaec435e9960dccef535df44d8c8ad18feaf18bbabfb57c72
+Filename: debs/wechatverfix_3.14.0_legacy_rootful.deb
+Size: 176214
+MD5sum: 83ec8cd454738dad2053632c6de8dd5a
+SHA256: c8744e7c243f15b38da6766e52aee2ca465e3e64b30211efbceb82e9e7605625
 
 Package: com.local.wechatverfix.legacy
 Name: 微版助手（低版本）
-Version: 3.13.3
+Version: 3.14.0
 Architecture: iphoneos-arm64
 Description: 微信版本伪装工具。iOS 15~16 rootless，纯 UIKit 无 Swift 依赖，装到 /var/jb。
 Maintainer: shitou6688
@@ -53,7 +53,7 @@ Author: shitou6688
 Section: Applications
 Depends: firmware (>= 11.0)
 Installed-Size: 800
-Filename: debs/wechatverfix_3.13.3_legacy_rootless.deb
-Size: 176252
-MD5sum: 65b20cbd8c832fc9ad689ebcbdf1a7c8
-SHA256: f543942023a318a5af2635ac9274960e415966997b7744e43cfd2455a42a404f
+Filename: debs/wechatverfix_3.14.0_legacy_rootless.deb
+Size: 176232
+MD5sum: e865caa114af98d91ab35075ff5c3b76
+SHA256: d3c6c4df553a8129e094f5055d358ec945d7a2be6a796c936356de6d353450be
